@@ -1,17 +1,17 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] ðŸ‘‹
+### Hi there, I'm Biswa 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer !!
 
-- ðŸ”­ I just launched my first course: [Become A VS Code SuperHero!][course]!
-- ðŸŒ± Iâ€™m currently learning everything ðŸ¤£
-- ðŸ‘¯ Iâ€™m looking to collaborate with other content creators
-- ðŸ¥… 2020 Goals: Contribute more to Open Source projects
-- âš¡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just working on my latest learning React: [React]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects and Learning new technologies
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing ðŸŽ§
+### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -49,7 +49,7 @@
 
 ---
 
-### ðŸ“º Latest YouTube Videos
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
@@ -59,11 +59,11 @@
 - [Best Explanation of JavaScript Null vs Undefined! #shorts](https://www.youtube.com/watch?v=fCGswW7fruY)
 <!-- YOUTUBE:END -->
 
-âž¡ï¸ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
-### ðŸ“• Latest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -73,7 +73,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-âž¡ï¸ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
@@ -81,11 +81,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. âŒ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. ðŸ—£ Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. âŒ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. ðŸŽ‰ Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. ðŸ’ª Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
 </details>
